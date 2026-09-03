@@ -1,0 +1,4 @@
+TABLE: tb_alunos(id AUTOINCREMENT, nome TEXT, idade INTEGER)
+1 | Caique Wired       | 21
+2 | Julia IFCE         | 19
+3 | Leco Dev           | 20
